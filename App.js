@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import DrawerNavigator from './navigation/StackNavigator';
+import StackNavigator from './navigation/StackNavigator';
 import { Text } from 'react-native';
 import Location from './components/Location';
 
