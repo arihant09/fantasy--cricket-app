@@ -2,7 +2,7 @@ import React from 'react';
 import LoginScreen from '../screens/LoginScreen';
 import HomeScreen from '../screens/HomeScreen';
 import CreateScreen from '../screens/CreateScreen';
-import DrawerNavigator from '../navigation/DrawerNavigator';
+import DrawerNavigator from './StackNavigator';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 
